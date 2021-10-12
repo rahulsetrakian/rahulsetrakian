@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Joriya</h1>
+<h1 align="center">Hi 👋, I'm Rahul Setrakian</h1>
 <h3 align="center">I am a self-taught programmer, and technology gives me a chill.</h3>
 
 - 🔭 I’m currently working on **PROSLIPSI**
