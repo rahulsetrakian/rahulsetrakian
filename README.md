@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Networking, Blockchain Development, Server Administration.**
 
-- 📝 I regularly write articles on [https://rahuljoriya.blogspot.com/](https://rahuljoriya.blogspot.com/)
+- 📝 I regularly write articles on [https://rahulsetrakian.com/](https://rahulsetrakian.tech/)
 
 - 💬 Ask me about **Python, HTML, CSS, and Graphic Design.**
 
