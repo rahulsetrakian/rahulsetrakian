@@ -9,16 +9,16 @@
 
 - 💬 Ask me about **Python, HTML, CSS, and Graphic Design.**
 
-- 📫 How to reach me **rahuljoriyaofficial@gmail.com**
+- 📫 How to reach me **rahulsetrakian@protonmail.com**
 
-- ⚡ Fun fact **I Think I Am Psychopath.**
+- ⚡ Fun fact **I Think I A **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rahuljoriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuljoriya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuljoriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahuljoriya" height="30" width="40" /></a>
+<a href="https://dev.to/rahulsetrakian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahulsetrakian" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulsetrakian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsetrakian" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rahul joriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahul joriya" height="30" width="40" /></a>
-<a href="https://codesandbox.com/rahuljoriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rahuljoriya" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rahulsetrakian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rahulsetrakian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
