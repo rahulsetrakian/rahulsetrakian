@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rahulsetrakian@protonmail.com**
 
-- ⚡ Fun fact **I Think I A **
+- ⚡ Fun fact **I Think I A Ghost**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
