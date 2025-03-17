@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Computer Networking, Blockchain Development, Penetration Testing, and Server Administration<br>📝 I regularly write articles on https://rahulsetrakian.org.<br>💬 Ask me about Python, HTML, CSS, Networking, Linux, and Graphic Design.<br>📫 How to reach me rahulsetrakian@gmail.com.<br>⚡ Fun fact I am a freebie<br>
+🌱 I’m currently learning Computer Networking, Blockchain Development, Penetration Testing, and Server Administration<br>📝 I regularly write articles on https://rahulsetrakian.in.<br>💬 Ask me about Python, HTML, CSS, Networking, Linux, and Graphic Design.<br>📫 How to reach me rahulsetrakian@gmail.com.<br>⚡ Fun fact I am a freebie<br>
 
 
 ## 🌐 Socials:
